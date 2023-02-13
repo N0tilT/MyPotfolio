@@ -1,0 +1,9 @@
+.first__container{
+    margin-top: 62px;
+    column-gap: 18px;
+}
+
+.first__image--portrait{
+    width: 320px;
+    height: 386px;
+}
